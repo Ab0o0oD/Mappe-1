@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mappe-1</string>
+    <string name="start">Anfang</string>
+    <string name="preferences">Einstellungen</string>
+    <string name="statistisk">statistisch</string>
+</resources>
